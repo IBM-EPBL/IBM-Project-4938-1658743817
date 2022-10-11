@@ -3,6 +3,7 @@
 </template>
 
 <style scoped>
+
 button,
 a {
   text-decoration: none;    
